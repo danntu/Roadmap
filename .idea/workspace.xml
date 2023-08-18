@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7607a7a4-e646-47f4-9a5f-d2305a7cae1f" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic_syntax/geeksforgeeks/GFG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_syntax/geeksforgeeks/GFG.java" afterDir="false" />
-    </list>
+    <list default="true" id="7607a7a4-e646-47f4-9a5f-d2305a7cae1f" name="Changes" comment="Single line comment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692334083838</updated>
-      <workItem from="1692334084851" duration="398000" />
+      <workItem from="1692334084851" duration="874000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -80,7 +78,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692334270191</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Single line comment">
+      <option name="closed" value="true" />
+      <created>1692334507901</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692334507901</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Single line comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Single line comment" />
   </component>
 </project>
